@@ -1,0 +1,308 @@
+[
+    {
+        "id": 1,
+        "data": [
+            {
+                "id": 1,
+                "topic": "Khác",
+                "question": "Việc dự đoán chính xác sự kiện nào trong Thế chiến II đã giúp Việt Minh kịp thời phát động Tổng khởi nghĩa Tháng Tám 1945? ",
+                "ans": "Quân phiệt Nhật Bản đầu hàng quân đội Đồng minh",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 2,
+                "topic": "Nghệ thuật",
+                "question": "“Nói đúng hơn là chỉ có hai giờ cho cả cuộc đời” là cảm xúc của nhạc sĩ Phạm Tuyên khi sáng tác ca khúc nổi tiếng nào trong ngày 28/04/1975?",
+                "ans": "Như có Bác trong ngày đại thắng",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 3,
+                "topic": "Lý",
+                "question": "Động năng của vật phụ thuộc vào hai yếu tố là khối lượng và …",
+                "ans": "Vận tốc",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 4,
+                "topic": "Địa",
+                "question": "Bốn cánh cung khu vực miền Bắc Việt Nam: Sông Gâm, Ngân Sơn, Bắc Sơn, Đông Triều cùng chụm đầu hội tụ ở dãy núi nào?",
+                "ans": "Tam Đảo",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 5,
+                "topic": "Toán",
+                "question": "Các mặt bên của “hình lăng trụ đều” là hình chữ nhật. Đúng hay sai?",
+                "ans": "Đúng",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 6,
+                "topic": "Văn",
+                "question": "Tác phẩm “The Great Gatsby\" của nhà văn F. Scott Fitzgerald đã mô tả thực trạng xã hội của quốc gia nào? ",
+                "ans": "Mĩ / Hoa Kì",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 7,
+                "topic": "Sử",
+                "question": "Lịch sử khoa bảng Việt Nam từng ghi nhận bốn người mang danh hiệu “lưỡng quốc trạng nguyên\", đó là Nguyễn Trực, Nguyễn Đăng Đạo, Nguyễn Nghiêu Tư và ai nữa?",
+                "ans": "Mạc Đĩnh Chi",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 8,
+                "topic": "Hóa",
+                "question": "Xăng sinh học E5 chứa bao nhiêu phần trăm xăng truyền thống?",
+                "ans": "95%",
+                "type": "text",
+                "url": null
+            }
+        ],
+        "name": "Bộ đề số 1"
+    },
+    {
+        "id": 2,
+        "data": [
+            {
+                "id": 1,
+                "topic": "Khác",
+                "question": "Lương Thế Vinh đỗ Đệ nhất giáp tiến sĩ cập đệ nhất danh (Trạng nguyên) vào năm Quang Thuận thứ bao nhiêu?",
+                "ans": "4",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 2,
+                "topic": "Sinh",
+                "question": "Ngành thực vật đa dạng và tiến hóa nhất là ngành nào?",
+                "ans": "Hạt kín",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 3,
+                "topic": "Khác",
+                "question": "Các nhà khoa học dùng màu sắc gì cho Mặt Trăng khi nói về hiện tượng trăng tròn xuất hiện hai lần trong một tháng dương lịch?",
+                "ans": "Xanh (Blue)",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 4,
+                "topic": "Hiểu biết chung",
+                "question": "Tỉnh/ thành nào ở Việt Nam là tỉnh/ thành đầu tiên thực hiện việc tiêm ngừa vaccine phòng COVID - 19 cho trẻ từ 5 đến 11 tuổi?",
+                "ans": "Quảng Ninh",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 5,
+                "topic": "Hóa",
+                "question": "Loại bột trắng mà vận động viên cử tạ dùng để bôi lên tay trước khi thi đấu có công thức hoá học là gì?",
+                "ans": "MgCO3 (Magie cacbonat)",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 6,
+                "topic": "Văn",
+                "question": "Trong tác phẩm Bài ca ngất ngưởng, Nguyễn Công Trứ đã nhắc đến tên hiệu của nhân vật nào?",
+                "ans": "Nguyễn Công Trứ/ chính mình",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 7,
+                "topic": "Anh",
+                "question": "The Queen’s Gambit is an American mini-series that tells the story about which sport?",
+                "ans": "Chess",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 8,
+                "topic": "Sử",
+                "question": "Ai là nhà thuyền trưởng hạm đội đầu tiên có hành trình đi thẳng từ châu Âu đến Ấn Độ, là người khởi đầu kỷ nguyên vàng cho đế quốc Bồ Đào Nha ở thế kỷ XVI?",
+                "ans": "Vasco da Gama",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 9,
+                "topic": "Lý",
+                "question": "Đa số dụng cụ đo độ bão hoà oxy (SpO2) thông dụng trên thị trường ứng dụng nguyên lý nào trong vật lý?",
+                "ans": "Đo quang phổ/ Đo quang phổ hấp thụ",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 10,
+                "topic": "Khác",
+                "question": "Chế độ tiền tệ mà phương tiện tính toán kinh tế tiêu chuẩn được ấn định bằng hàm lượng vàng được gọi là gì?",
+                "ans": "Bản vị vàng/Kim bản vị",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 11,
+                "topic": "Toán",
+                "question": "Nếu ta lấy số đỉnh trừ đi số cạnh, sau đó cộng với số mặt của một khối đa diện lồi bất kỳ thì kết quả luôn là bao nhiêu?",
+                "ans": "2",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 12,
+                "topic": "Nghệ thuật",
+                "question": "Tính tẩu (đàn tính) là nhạc cụ không thể thiếu trong trình diễn loại hình nghệ thuật nào?",
+                "ans": "Hát then / thực hành then / then",
+                "type": "text",
+                "url": null
+            }
+        ],
+        "name": "Bộ đề số 2"
+    },
+    {
+        "id": 3,
+        "data": [
+            {
+                "id": 1,
+                "topic": "Khác",
+                "question": "Lionel Messi đã có bao nhiêu lần giành ngôi vị Á quân ở các giải đấu chính thức trong màu áo Đội tuyển quốc gia Argentina?",
+                "ans": "3 (World Cup 2014, Copa America 2015, Copa America 2016)",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 2,
+                "topic": "Hiểu biết chung",
+                "question": "Tính đến hết năm 2021, nhân vật nữ duy nhất nào của nước ta đã được UNESCO công nhận là danh nhân văn hóa thế giới?",
+                "ans": "Hồ Xuân Hương",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 3,
+                "topic": "Lý",
+                "question": "Khi vật thể hay hệ thống có cùng cấu trúc hay tính chất theo mọi phương hướng, ta nói vật thể hay hệ thống đó có tính ...",
+                "ans": "Đẳng hướng",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 4,
+                "topic": "Văn",
+                "question": "Truyện ngắn “Chí Phèo” của nhà văn Nam Cao có tên gọi đầu tiên là gì",
+                "ans": "Cái lò gạch cũ",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 5,
+                "topic": "Sinh",
+                "question": "Câu “Ăn khoai nhớ kẻ cho dây mà trồng” nhắc đến hình thức sinh sản sinh dưỡng nào của khoai lang?",
+                "ans": "Thân/ bằng thân/ sinh sản bằng thân",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 6,
+                "topic": "Hóa",
+                "question": "Các hợp chất hữu cơ thường có nhiệt độ nóng chảy và nhiệt độ sôi ...",
+                "ans": "Thấp",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 7,
+                "topic": "Khác",
+                "question": "Màu sắc khác nhau của các ngôi sao thể hiện đặc trưng nào của trạng thái ngôi sao đó?",
+                "ans": "Sức nóng",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 8,
+                "topic": "Sử",
+                "question": "“Tư bản luận” - bộ sách mang giá trị nền tảng về mặt tư tưởng, lý giải và vạch rõ bản chất của chủ nghĩa tư bản là sản phẩm khoa học của nhân vật lịch sử nào?",
+                "ans": "Karl Marx (Các-Mác)",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 9,
+                "topic": "Thể thao",
+                "question": "Ai là đội trưởng chính thức của đội tuyển U23 Việt Nam tham gia tranh tài ở nội dung bóng đá nam trong kỳ SEA Games 31?",
+                "ans": "Đỗ Hùng Dũng/ Hùng Dũng",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 10,
+                "topic": "Nghệ thuật",
+                "question": "Trong đêm Gala trao giải tối 1/4/2022, nhóm nhạc nào thuộc đội Đại Bàng Trắng đã được Rock Việt công bố là Quán quân mùa đầu tiên của chương trình?",
+                "ans": "Metanoia",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 11,
+                "topic": "Địa",
+                "question": "Sân bay nào của Nhật Bản được xây dựng trên một hòn đảo nhân tạo?",
+                "ans": "Sân bay Kansai",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 12,
+                "topic": "Toán",
+                "question": "Vị giáo sư nào là Tiến sĩ Khoa học toán học đầu tiên của Việt Nam, là Viện trưởng đầu tiên của Viện Toán học và cũng là Chủ tịch đầu tiên của Hội Toán học Việt Nam?",
+                "ans": "Giáo sư Lê Văn Thiêm",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 13,
+                "topic": "Anh",
+                "question": "What is the capital of Switzerland?",
+                "ans": "Bern",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 14,
+                "topic": "Sinh",
+                "question": "Theo Viện Huyết học và Truyền máu Trung ương, bệnh nhân sau khi khỏi COVID – 19 được 10 ngày có thể hiến máu nhân đạo, đúng hay sai?",
+                "ans": "Đúng",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 15,
+                "topic": "Thể thao",
+                "question": "Mã Long, Trương Kế Khoa, Dimitrij Ovtcharov, Harimoto Tomokazu là những vận động viên ở môn thể thao nào?",
+                "ans": "Bóng bàn",
+                "type": "text",
+                "url": null
+            },
+            {
+                "id": 16,
+                "topic": "Hóa",
+                "question": "Trong mỏ dầu, lớp dầu lỏng có hòa tan khí ở giữa có thành phần chính là một hỗn hợp các …",
+                "ans": "Hidrocacbon",
+                "type": "text",
+                "url": null
+            }
+        ],
+        "name": "Vị trí 3 - THPT"
+    }
+]

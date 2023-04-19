@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "data": {
+      "topic": "Văn",
+      "question": "Môn thể thao nào được nhắc đến trong tác phẩm Tinh thần thể dục của nhà văn Nguyễn Công Hoan?",
+      "ans": "Bóng đá",
+      "type": "text"
+    }
+  },
+  {
+    "id": 2,
+    "data": {
+      "topic": "Sử",
+      "question": "Công trình nào bị phá dỡ vào ngày 09/11/1989, là một trong những biểu tượng nổi tiếng nhất của cuộc Chiến tranh Lạnh và của việc chia cắt nước Đức?",
+      "ans": "Bức tường Berlin",
+      "type": "text"
+    }
+  },
+  {
+    "id": 3,
+    "data": {
+      "topic": "Lý",
+      "question": "Điện châm – sử dụng dòng điện có kiểm soát tác dụng vào cây châm cứu, dùng để chữa nhiều bệnh lý khác nhau của con người là ứng dụng cho tác dụng gì của dòng điện?",
+      "ans": "Tác dụng sinh lý",
+      "type": "text"
+    }
+  },
+  {
+    "id": 4,
+    "data": {
+      "topic": "Hóa",
+      "question": "Hãy cho biết loại khí chiếm 0.934% thể tích khí quyển, đồng thời cũng là khí hiếm phổ biến nhất trên trái đất, tính đến thời điểm hiện tại?",
+      "ans": "Argon|Ar",
+      "type": "text"
+    }
+  },
+  {
+    "id": 5,
+    "data": {
+      "topic": "Địa",
+      "question": "Hãy nêu tên của các tỉnh tương ứng với vị trí của 4 điểm cực của nước ta.",
+      "ans": "Cực Bắc – Hà Giang, cực Tây – Điện Biên, Cực Đông – Khánh Hoà, cực Nam – Cà Mau",
+      "type": "text"
+    }
+  },
+  {
+    "id": 6,
+    "data": {
+      "topic": "Sinh",
+      "question": "Tế bào có kích thước lớn nhất trong cơ thể người là tế bào gì?",
+      "ans": "Trứng",
+      "type": "text"
+    }
+  },
+  {
+    "id": 7,
+    "data": {
+      "topic": "Sử",
+      "question": "Ai là Bộ trưởng Bộ Quốc phòng đầu tiên của nước ta?",
+      "ans": "Chu Văn Tấn",
+      "type": "text"
+    }
+  },
+  {
+    "id": 8,
+    "data": {
+      "topic": "Lý",
+      "question": "Trong quần vợt, những giải Grand Slam nào có mặt sân thi đấu là sân cứng?",
+      "ans": "Australian Open/ Úc Mở rộng và US Open/ Mỹ Mở rộng",
+      "type": "text"
+    }
+  }
+]

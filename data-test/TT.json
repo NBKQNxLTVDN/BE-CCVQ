@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "data": {
+            "question": "Bạn hãy trả lời câu hỏi trong hình sau:\n",
+            "type": "image",
+            "ans": "",
+            "url": "3_TCTT_Cau1_Ques.jpg",
+            "solution": "",
+            "solutionURL": "3_TCTT_Cau1_Ans.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "data": {
+            "question": "Đây là ai?\n\n\n",
+            "type": "video",
+            "ans": "",
+            "url": "TT2.mp4",
+            "solution": " ",
+            "solutionURL": ""
+        }
+    },
+    {
+        "id": 3,
+        "data": {
+            "question": " Sắp xếp các doanh nghiệp sau với quốc gia tương ứng:\n\n",
+            "type": "image",
+            "ans": "1A – 2D – 3B – 4C (ADBC)",
+            "url": "TT3.jpeg.jpg",
+            "solution": "- Netflix là dịch vụ xem video trực tuyến của Mỹ. - Spotify là một dịch vụ âm nhạc trực tuyến được phát triển bởi công ty Spotify AB tại Thụy Điển. - Tencent Holdings Limited là một công ty cổ phần đầu tư Trung Quốc với các công ty con cung cấp dịch vụ truyền thông, giải trí, Internet và dịch vụ giá trị gia tăng điện thoại di động, và hoạt động các dịch vụ quảng cáo trực tuyến tại Trung Quốc. - Zalo được phát triển và phát hành bởi công ty cổ phần VNG (công ty công nghệ Việt Nam)",
+            "solutionURL": "TT3.ans.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "data": {
+            "question": "Đây là bệnh gì?\n\n\n\n\n",
+            "type": "video",
+            "ans": "Đái tháo đường/ Tiểu đường",
+            "url": "TT4.mp4",
+            "solution": "",
+            "solutionURL": ""
+        }
+    }
+]

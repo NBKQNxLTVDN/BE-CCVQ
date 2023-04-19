@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "topic": "Chiến tranh thế giới thứ hai",
+        "review": {
+            "type": "image",
+            "url": "CTTG2.JPG"
+        },
+        "data": [
+            {
+                "id": 1,
+                "topic": "Sở trường số 1",
+                "question": "Chủ nghĩa phát xít - yếu tố tư tưởng quan trọng dẫn đến sự bùng nổ Thế chiến II bắt nguồn từ đảng chính trị của quốc gia thuộc phe Trục nào và ai là người đã đề xướng nó? \n",
+                "ans": "Ý, Benito Mussolini ",
+                "type": "text",
+                "url": "",
+                "value": "10",
+                "solution": "Giải thích: Trong các quốc gia thuộc phe Trục, Đảng Phát xít Ý là đảng phát xít đầu tiên và sớm nhất kiểm soát và nắm quyền chi phối quốc gia kể từ năm 1922, dưới sự chỉ đạo của Benito Mussolini - thủ tướng đương thời của Ý. \n",
+                "solutionURL": ""
+            },
+            {
+                "id": 2,
+                "question": "Bạn hãy trả lời câu hỏi sau của ban tổ chức Cuộc Chiến Vương Quyền",
+                "ans": "Đội Con nai / (The) Deer Team",
+                "type": "image",
+                "url": "WW2_20d_ChinhThuc.jpg",
+                "value": "20",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 3,
+                "question": "Bạn hãy trả lời câu hỏi sau của ban tổ chức Cuộc Chiến Vương Quyền",
+                "ans": "Hội nghị Yalta (1945), Hội nghị Potsdam (1945), Hội nghị Hòa bình Paris (1946) (chấp nhận Hiệp ước Hòa bình Paris (1947)) ",
+                "type": "image",
+                "url": "WW2_30d_ChinhThuc.jpg",
+                "value": "30",
+                "solution": "",
+                "solutionURL": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "topic": " Nhà toán học - Trạng nguyên Lương Thế Vinh",
+        "review": {
+            "type": "image",
+            "url": "LTV.JPG"
+        },
+        "data": [
+            {
+                "id": 1,
+                "question": " Ngoài bộ sách “Đại thành toán pháp”, Lương Thế Vinh còn để lại 2 tác phẩm khác, một bộ nghiên cứu về Phật học, bộ còn lại ghi chép về nghệ thuật hát chèo ở nước ta lúc đó. Tên của hai bộ sách đó là gì?",
+                "ans": "Thiền môn khoa giáo, Hý phường phả lục.",
+                "type": "text",
+                "url": "",
+                "value": "10",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 2,
+                "question": "Trong lúc đi kinh lý vùng Sơn Nam Hạ, khi ghé qua một ngôi chùa nọ, vua Lê Thánh Tông tức cảnh ra vế đối: “Đường thượng tụng kinh, sư sử sứ”. Không có ai đối được vế đối này ngoại trừ Trạng nguyên Lương Thế Vinh. Hãy cho biết vế đối của Lương Thế Vinh là gì?",
+                "ans": "“Đình tiền tuý tửu, phụ phù phu”.",
+                "type": "text",
+                "url": "",
+                "value": "20",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 3,
+                "question": "Bạn hãy trả lời câu hỏi sau của ban tổ chức Cuộc Chiến Vương Quyền",
+                "ans": "Nội Mật Viện, Ngũ Hình Viện, Ngự Sử Đài, Lễ Nghi Viện",
+                "type": "image",
+                "url": "LTV_30d_ChinhThuc.jpg",
+                "value": "30",
+                "solution": "",
+                "solutionURL": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "topic": "Lionel Messi",
+        "review": {
+            "type": "image",
+            "url": "Lionel Messi.JPG"
+        },
+        "data": [
+            {
+                "id": 1,
+                "question": "Bạn hãy trả lời câu hỏi sau của BTC Cuộc chiến vương quyền",
+                "ans": "2012, 2016, 2018, 2022 ",
+                "type": "video",
+                "url": "M10_10d_ChinhThuc.mp4",
+                "value": "10",
+                "solution": "\n",
+                "solutionURL": ""
+            },
+            {
+                "id": 2,
+                "question": "Bàn thắng đầu tiên của Messi tại các vòng chung kết World Cup là vào lưới đội tuyển nào? Diễn ra vào kì World Cup năm nào? Tại quốc gia nào? \n",
+                "ans": "Serbia & Montenegro - World Cup 2006 - Tại Đức\nKhông chấp nhận Serbia/ Montenegro. ",
+                "type": "text",
+                "url": "",
+                "value": "20",
+                "solution": "Serbia & Montenegro là một quốc gia thuộc Nam Tư cũ, tồn tại từ 1992 đến 2006 (giai đoạn 1992 - 2003 mang tên Cộng hòa Liên bang Nam Tư sau khi Cộng hòa Liên bang Xã hội chủ nghĩa Nam Tư tan rã, đến 2003 đổi tên thành Liên minh Nhà nước Serbia & Montenegro). Khi World Cup 2006 diễn ra, dù cuộc Trưng cầu dân ý về độc lập của Montenegro đã diễn ra vào tháng 5/2006 và Montenegro đã chính thức tuyên bố độc lập vào ngày 03/6/2006 (trước ngày World Cup 2006 diễn ra khoảng 1 tuần) nhưng do đội tuyển Serbia & Montenegro đã tham gia vòng loại World Cup nên đội bóng này vẫn tham dự World Cup dưới danh nghĩa Serbia & Montenegro. Đây là kì World Cup đầu tiên và cũng là lần cuối cùng danh xưng Serbia & Montenegro xuất hiện tại một kì World Cup. Tại trận đấu với đội tuyển Serbia & Montenegro, Lionel Messi không ra sân ngay từ đầu mà được tung vào sân ở phút 75 và ghi bàn ấn định chiến thắng 6-0 cho Argentina ở phút thứ 88. Đây là bàn thắng đầu tiên của Messi tại một kì World Cup và phải đến 8 năm sau, tại World Cup 2014, anh mới có bàn thắng thứ hai tại World Cup. Điều thú vị rằng, bàn thắng thứ 2 của Messi tại World Cup cũng là bàn thắng vào lưới một đội bóng của một quốc gia thuộc Nam Tư cũ - Bosnia & Herzegovina.",
+                "solutionURL": ""
+            },
+            {
+                "id": 3,
+                "question": "Bạn hãy trả lời câu hỏi sau của BTC Cuộc chiến vương quyền",
+                "ans": "Cristiano and Leo: The Race to Become the Greatest Football Player of All Time",
+                "type": "video",
+                "url": "M10_30d_ChinhThuc.mp4",
+                "value": "30",
+                "solution": "",
+                "solutionURL": "Messi_30d_Ans.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "topic": "Nhà giáo - Anh hùng - Nhà yêu nước Nguyễn Hữu Huân",
+        "review": {
+            "type": "image",
+            "url": "NHH.JPG"
+        },
+        "data": [
+            {
+                "id": 1,
+                "question": " Cùng với Phan Thanh Giản - tiến sĩ đầu tiên đến từ miền Nam trong lịch sử khoa bảng triều Nguyễn, Nguyễn Hữu Huân cũng là một trong những trí thức Nho học đã làm rạng danh mảnh đất “Nam kỳ lục tỉnh”. Vì vậy, ngoài danh xưng Nguyễn Hữu Huân, người đời sau còn thường gọi ông bằng danh xưng “Thủ khoa Huân\" với hàm ý tôn vinh thành tích đậu thủ khoa kì thi Hương. Hãy cho biết tên trường thi Hương cùng với năm ông đạt danh hiệu này?",
+                "ans": "Gia Định, 1852",
+                "type": "text",
+                "url": "",
+                "value": "10",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 2,
+                "question": "Bạn hãy trả lời câu hỏi sau của BTC Cuộc chiến vương quyền",
+                "ans": "Trương Định, Võ Duy Dương,  Âu Dương Lân, cùng là người quê Tiền Giang",
+                "type": "image",
+                "url": "NHH_20d_ChinhThuc.jpg",
+                "value": "20",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 3,
+                "question": "Bạn hãy trả lời câu hỏi sau của BTC Cuộc chiến vương quyền",
+                "ans": "Giai đoạn 1 (Nho học thuần túy), Trương Vĩnh Ký, Nguyễn Trường Tộ, Trần Xuân Soạn ",
+                "type": "image",
+                "url": "NHH_30d_ChinhThuc.jpg",
+                "value": "30",
+                "solution": "",
+                "solutionURL": ""
+            }
+        ]
+    }
+]

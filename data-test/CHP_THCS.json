@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "data": {
+      "topic": "Toán",
+      "question": "Cửa hàng có hai loại giỏ hoa quả. Loại A mỗi giỏ có 4 quả táo, 8 quả lê. Loại B mỗi giỏ có 7 quả táo 14 quả lê. Cửa hàng có 25 quả táo, vậy cửa hàng có bao nhiêu quả lê?",
+      "ans": "50",
+      "type": "text"
+    }
+  },
+  {
+    "id": 2,
+    "data": {
+      "topic": "Văn",
+      "question": "Từ nào còn thiếu trong những câu thơ sau: \"Bác để tình thương cho chúng con/ Một đời thanh bạch chẳng …\"",
+      "ans": "Vàng son",
+      "type": "text"
+    }
+  },
+  {
+    "id": 3,
+    "data": {
+      "topic": "Tiếng Anh",
+      "question": "What do we call a person who design a building?",
+      "ans": "Architect",
+      "type": "text"
+    }
+  },
+  {
+    "id": 4,
+    "data": {
+      "topic": "Địa",
+      "question": "Hy Mã Lạp Sơn là tên phiên âm Hán Việt của dãy núi nào?",
+      "ans": "Himalaya",
+      "type": "text"
+    }
+  },
+  {
+    "id": 5,
+    "data": {
+      "topic": "Nghệ thuật",
+      "question": " Bài hát Chú voi con ở Bản Đôn được viết bởi nhạc sĩ nào?",
+      "ans": "Phạm Tuyên",
+      "type": "text"
+    }
+  },
+  {
+    "id": 6,
+    "data": {
+      "topic": "Lý",
+      "question": "Điền từ còn thiếu vào chỗ trống: Nhờ có … mà một vật không thể thay đổi vận tốc đột ngột.",
+      "ans": "Quán tính",
+      "type": "text"
+    }
+  },
+  {
+    "id": 7,
+    "data": {
+      "topic": "Thể thao",
+      "question": " Kata và Kumite là hai nội dung thi đấu của môn võ thuật nào?",
+      "ans": "Karatedo",
+      "type": "text"
+    }
+  },
+  {
+    "id": 8,
+    "data": {
+      "topic": "Tin",
+      "question": "Trong kỹ thuật gõ văn bản bằng 10 ngón, ngón nào luôn được dùng để gõ phím cách?",
+      "ans": "Ngón cái",
+      "type": "text"
+    }
+  }
+]

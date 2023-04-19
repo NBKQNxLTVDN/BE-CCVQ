@@ -1,0 +1,397 @@
+[
+    {
+        "id": 1,
+        "name": "Bộ đề số 1",
+        "data": [
+            {
+                "id": 1,
+                "topic": "Thể thao",
+                "question": "Bạn hãy trả lời câu hỏi sau của BTC Cuộc chiến vương quyền",
+                "ans": "2004, Hy Lạp",
+                "type": "video",
+                "url": "MDTC_ViTri1_10d_TT.mp4",
+                "value": "10",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 2,
+                "topic": "Lý",
+                "question": " Găng tay và tất khi ướt khó cởi hơn khi khô. Hãy giải thích vì sao?\n",
+                "ans": "Sức căng bề mặt của nước làm các sợi của đồ vật này dính chặt vào da nên sẽ khó cởi hơn.\n",
+                "type": "text",
+                "url": "",
+                "value": "10",
+                "solution": ""
+            },
+            {
+                "id": 3,
+                "topic": "Sinh",
+                "question": "Bạn hãy trả lời câu hỏi sau của Ban Tổ Chức CCVQ.\n",
+                "ans": " Hô hấp",
+                "type": "image",
+                "url": "MDTC_ViTri1_10d_Sinh.jpg",
+                "value": "10",
+                "solution": ""
+            },
+            {
+                "id": 4,
+                "topic": "Hóa",
+                "question": "Bạn hãy trả lời câu hỏi sau của Ban Tổ Chức CCVQ.\n",
+                "ans": "Dùng HCl thử với cả 3 chất, chất nào tác dụng với HCl sinh ra bọt khí là Na2CO3. Sau đó dùng Na2CO3 thử với 2 chất còn lại. Chất nào tác dụng tạo kết tủa trắng là Ca(OH)2; chất không có hiện tượng là NaOH.\n(Với các câu trả lời khác đáp án, mời cố vấn Hóa học. Nếu không có cố vấn Hóa học thì mời Ban Nội dung.)",
+                "type": "image",
+                "url": "MDTC_Vitri1_20d_Hoa.jpg",
+                "value": "20",
+                "solution": ""
+            },
+            {
+                "id": 5,
+                "topic": "Hiểu biết chung",
+                "question": "“Tôi yêu Bác mà đã nhớ được, ghi chép được dăm ba mẩu chuyện nho nhỏ về cuộc đời vĩ đại của Người. tôi viết lại những mẩu nho nhỏ ấy với lòng thành: Góp phần kể về đời hoạt động của vị Cha già dân tộc”. Đây là lời nhận xét của nhà văn Sơn Tùng khi chấp bút kịch bản của bộ phim điện ảnh nào?",
+                "ans": "Hẹn gặp lại Sài Gòn",
+                "type": "text",
+                "url": "",
+                "value": "20",
+                "solution": ""
+            },
+            {
+                "id": 6,
+                "topic": "Văn",
+                "question": "Trong bài thơ “Phá đường”, nhà thơ Tố Hữu đã nhắc đến tên 2 tỉnh nào?\n",
+                "ans": "Thái Nguyên và Bắc Giang",
+                "type": "text",
+                "url": "",
+                "value": "20",
+                "solution": "Rét Thái Nguyên rét về Yên Thế\nGió qua rừng Đèo Khế gió sang…\nEm là con gái Bắc Giang\nRét thì mặc rét, nước làng em lo\n"
+            },
+            {
+                "id": 7,
+                "topic": "Toán",
+                "question": "Bạn hãy trả lời câu hỏi sau của ban tổ chức Cuộc Chiến Vương Quyền",
+                "ans": "20 miếng da màu trắng, 12 miếng da màu đen",
+                "type": "lab",
+                "url": "MDTC_Vitri1_30d_Toan.jpg",
+                "value": "30",
+                "solution": "gọi a = số miếng da màu trắng, b = số miếng da màu đen. Ta có a + b = 32 (1). Sau đó, ta quan sát thấy mỗi miếng da màu trắng hình lục giác có 6 cạnh, trong đó có ba cạnh chung với ba miếng da màu đen hình ngũ giác => tổng số cạnh của miếng da màu trắng là 3a, mỗi hình ngũ giác có 5 cạnh nên tổng số cạnh của miếng da màu đen là 5b => 3a = 5b (2). Giải hệ (1) và (2) ta được a = 20, b = 12.",
+                "solutionURL": "MDTC_Vitri1_30d_Toan_Ans.jpg",
+                "time_practical": 15,
+                "time": "40"
+            },
+            {
+                "id": 8,
+                "topic": "Nghệ thuật",
+                "question": "Bạn hãy trả lời câu hỏi sau của Ban Nội dung Cuộc Chiến Vương Quyền.\n",
+                "ans": "Đếm sao – Văn Chung (Mai Văn Chung)",
+                "type": "video",
+                "url": "MDTC_Vitri1_30d_NgheThuat.mp4",
+                "value": "30",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 9,
+                "topic": "Sử",
+                "question": "Vào cuối thế kỉ XIX, “Đế quốc mà Mặt Trời không bao giờ lặn” là cụm từ miêu tả đế quốc nào? Trong thời gian đó, không tính Brunei và Singapore, đế quốc đó cai trị 2 quốc gia Đông Nam Á nào?\n",
+                "ans": "Anh, cai trị Miến Điện (Myanmar) và Mã Lai (Malaysia)",
+                "type": "text",
+                "url": "",
+                "value": "30",
+                "solution": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bộ đề số 2",
+        "data": [
+            {
+                "id": 1,
+                "topic": "Sử",
+                "question": "Tờ tiền giấy đầu tiên của nước ta – Thông Bảo hội sao, được phát hành lần đầu dưới thời vua nào?",
+                "ans": "Trần Thuận Tông",
+                "type": "text",
+                "url": "",
+                "value": "10",
+                "solution": ""
+            },
+            {
+                "id": 2,
+                "topic": "Nghệ thuật",
+                "question": "Ai là người chiến thắng hạng mục “Best New Artist” của giải Grammy lần thứ 64 được tổ chức vào ngày 4/4/2022?\n",
+                "ans": "Olivia Rodrigo (Chấp nhận đáp án Olivia).",
+                "type": "text",
+                "url": "",
+                "value": "10",
+                "solution": ""
+            },
+            {
+                "id": 3,
+                "topic": "Anh",
+                "question": " Bạn hãy trả lời câu hỏi sau bằng Tiếng Anh.\n",
+                "ans": "wisdom teeth",
+                "type": "video",
+                "url": "MDTC_Vitri2_10d_Eng.mp4",
+                "value": "10",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 4,
+                "topic": "Hiểu biết chung",
+                "question": "Giải thưởng chính VinFuture – VinFuture Grand Prize tại Lễ trao giải thưởng khoa học công nghệ toàn cầu VinFuture lần thứ nhất đã được trao cho những nhà khoa học với công trình có tên là gì?\n",
+                "ans": "“Vaccine mRNA: Công nghệ đột phá để cứu sống con người\" (keyword: công nghệ vaccine mRNA)\n",
+                "type": "text",
+                "url": "",
+                "value": "20",
+                "solution": ""
+            },
+            {
+                "id": 5,
+                "topic": "Toán",
+                "question": "Người ta bơm nước vào một bể có chiều dài 2m bằng một vòi mỗi giờ chảy được 0,5m3. Biết sau 3 giờ thì mực nước trong bể cao 0,6m. Nếu bể đó cao 1,5m thì phải bơm trong bao lâu mới đầy bể?\n",
+                "ans": "7,5 giờ",
+                "type": "text",
+                "url": "",
+                "value": "20",
+                "solution": "Lượng nước bơm trong 3 giờ: 0,5 x 3 = 1,5 (m3)\nChiều rộng của bể: 1,5 / 0,6 / 2 = 1,25 (m)\nThể tích của bể: 2 x 1,25 x 1,5 = 3,75 (m3)\nThời gian để bơm đầy bể: 3,75 / 0,5 = 7,5 (giờ)\n"
+            },
+            {
+                "id": 6,
+                "topic": "Anh",
+                "question": "Bạn hãy trả lời câu hỏi sau bằng Tiếng Anh.\n",
+                "ans": " Cascadeur (FRA)/ stuntman (ENG)/ stuntwoman (ENG)",
+                "type": "video",
+                "url": "MDTC_Vitri2_20d_Eng.mp4",
+                "value": "30",
+                "solution": ""
+            },
+            {
+                "id": 7,
+                "topic": "Địa",
+                "question": "Vào ngày 15/9/2021, hai khu dự trữ sinh quyển ở Ninh Thuận và Gia Lai đồng thời được tổ chức UNESCO công nhận là khu dự trữ sinh quyển thế giới, giúp Việt Nam nâng số khu được công nhận lên 11, chỉ xếp sau Indonesia tại Đông Nam Á về số lượng khu dự trữ sinh quyển. Hãy cho biết tên hai khu dự trữ sinh quyển này?\n",
+                "ans": "Núi Chúa và Kon Hà Nừng",
+                "type": "text",
+                "url": "",
+                "value": "30",
+                "solution": ""
+            },
+            {
+                "id": 8,
+                "topic": "Hóa",
+                "question": "Bạn hãy trả lời câu hỏi sau của Ban Tổ Chức CCVQ.\n",
+                "ans": "điều kiện thường S là chất rắn tồn tại dạng S8, khi đun nóng đến 1190C S nóng chảy các phân tử S8 chuyển động trượt lên nhau dễ dàng, nhưng đến 1870C S trở nên quánh nhớt là do các chuỗi S8 đứt ra sau đó liên kết lại với nhau thành chuỗi Sn có phân tử khối lớn. Nhưng đến 4450C S bắt đầu sôi do các chuỗi Sn bị đứt gãy thành những chuỗi nhỏ hơn bay hơi.\n",
+                "type": "video",
+                "url": "MDTC_Vitri2_30d_Hoa.mp4",
+                "value": "30",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 9,
+                "topic": "Anh",
+                "question": "Bạn hãy trả lời câu hỏi sau bằng Tiếng Anh",
+                "ans": " International Business Machines.",
+                "type": "video",
+                "url": "MDTC_Vitri2_30d_Eng.mp4",
+                "value": "30",
+                "solution": "",
+                "solutionURL": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bộ đề số 3",
+        "data": [
+            {
+                "id": 1,
+                "topic": "Lý",
+                "question": "Ngoài tính năng thẩm mỹ, con gà ở trên đỉnh Nhà thờ Chính tòa Đà Lạt (hay còn gọi là Nhà thờ Con Gà) giữ vai trò quan trọng nào trong kiến trúc này?\n",
+                "ans": "Cột thu lôi",
+                "type": "text",
+                "url": "",
+                "value": "10",
+                "solution": ""
+            },
+            {
+                "id": 2,
+                "topic": "Hiểu biết chung",
+                "question": "Người ta sử dụng chữ Quán quân để gọi người giành được Giải nhất trong một cuộc thi, Á quân để gọi người giành được Giải nhì. Hãy cho biết cách gọi tương ứng dành cho người đạt được Giải ba?",
+                "ans": " Quý quân",
+                "type": "text",
+                "url": "",
+                "value": "10",
+                "solution": "Chữ quý ở đây được ghép lại từ hai chữ, là chữ hòa, nghĩa là cây lúa, và chữ tử nghĩa là còn trẻ. Tóm lại, nghĩa gốc của chữ Quý là hoa màu còn non, chưa tới vụ, sau mở rộng thêm lớp nghĩa trẻ con, niên thiếu. Con út trong nhà thì được gọi là quý nữ hay quý đệ."
+            },
+            {
+                "id": 3,
+                "topic": "Nghệ thuật",
+                "question": "Bạn hãy trả lời câu hỏi sau từ BTC Cuộc chiến vương quyền",
+                "ans": "Làm giấy",
+                "type": "video",
+                "url": "MDTC_ViTri3_10d_Ngth.mp4",
+                "value": "10",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 4,
+                "topic": "Lý",
+                "question": "Bạn hãy trả lời câu hỏi sau của Ban Tổ Chức Cuộc Chiến Vương Quyền. \n",
+                "ans": "Bong bóng được làm từ cao su, có tính đàn hồi cao, nên khi được dãn ra, nó sẽ tạo ra một lực căng tác động lên thành bong bóng. Nếu chúng ta cắt một vết nhỏ lên nó, thì sẽ làm rách cả bong bóng một cách đột ngột và tạo ra tiếng nổ. Khi đó, ta thấy bong bóng bị đứt ra thành các mảnh nhỏ. Tuy nhiên, với trường hợp đã được dán băng keo xung quanh 1 điểm cố định, khi ta ghim vật nhọn vào vị trí ở giữa, lúc này băng keo sẽ giúp giữ chặt các mép bong bóng không cho nó co lại. Do đó, bong bóng không bị rách và cũng không bị bể.\n",
+                "type": "video",
+                "url": "MDTC_Vitri3_20d_VatLy.mp4",
+                "value": "20",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 5,
+                "topic": "Sinh",
+                "question": "Vị ngọt của dưa hấu đến từ bộ phận nào của tế bào?",
+                "ans": "Không bào",
+                "type": "text",
+                "url": "",
+                "value": "20",
+                "solution": "Không bào dự trữ nước và đường."
+            },
+            {
+                "id": 6,
+                "topic": "Sử",
+                "question": "Trong quan hệ hữu nghị giữa Việt Nam với các quốc gia khác, quan hệ đối tác chiến lược toàn diện là quan hệ ở cấp độ cao nhất. Hai quốc gia ở vào cấp độ này xác định sẽ hợp tác, gắn bó lợi ích lâu dài, hỗ trợ lẫn nhau và thúc đẩy hợp tác một cách sâu rộng, toàn diện trên tất cả các lĩnh vực đem lại lợi ích cho cả hai bên. Tính đến tháng 4/2022, Việt Nam đã tiến hành đặt quan hệ đối tác chiến lược toàn diện với ba quốc gia trên thế giới, đó là Liên bang Nga và hai quốc gia nào nữa?\n",
+                "ans": "Cộng hoà Nhân dân Trung Hoa/ Trung Quốc, Cộng hoà Ấn Độ/ Ấn Độ",
+                "type": "text",
+                "url": "",
+                "value": "20",
+                "solution": ""
+            },
+            {
+                "id": 7,
+                "topic": "Văn",
+                "question": " Trong tác phẩm Thương nhớ mười hai, nhà văn Vũ Bằng có viết: “Cái trăng tháng giêng, non như người con gái mơn mởn đào tơ, hình như cũng đẹp hơn các tháng khác trong năm thì phải: sáng nhưng không đẹp lộng lẫy như trăng sáng mùa thu, đẹp nhưng không đẹp một cách úa héo như trăng tháng một.”\nHãy giải thích “tháng giêng” và “tháng một” ở đây được Vũ Bằng hiểu như thế nào?",
+                "ans": "“Tháng một” là tháng mười một âm lịch. “Tháng giêng” là tháng một âm lịch. (Theo như cách ghi lịch treo tường hiện nay)",
+                "type": "text",
+                "url": "",
+                "value": "30",
+                "solution": "Dân gian Việt Nam vẫn còn truyền miệng câu “Một chạp giêng hai” để nói về thứ tự các tháng 11, 12, 1, 2 âm lịch như lịch ghi hiện nay."
+            },
+            {
+                "id": 8,
+                "topic": "Sinh",
+                "question": "Con người có thể đạt được miễn dịch cộng đồng bằng những hình thức gì?",
+                "ans": "mắc bệnh và đã khỏi bệnh, tiêm vaccine",
+                "type": "text",
+                "url": "",
+                "value": "30",
+                "solution": ""
+            },
+            {
+                "id": 9,
+                "topic": "Thể thao",
+                "question": "Ngày 11/7/2021 (theo giờ địa phương), nền thể thao Ý đã chứng kiến 2 trận chung kết cùng diễn ra trong cùng một ngày có sự tham gia của những vận động viên Ý. Đây đều là hai trận chung kết của hai giải đấu thể thao lớn trên thế giới và địa điểm tổ chức hai trận chung kết này đều nằm tại một quốc gia. Hãy cho biết hai giải đấu thể thao chúng tôi nói đến ở đây là gì? Thuộc những bộ môn thể thao nào? Và được tổ chức tại quốc gia nào?\n",
+                "ans": "Wimbledon 2021 và EURO 2020; Quần vợt/ Tennis và Bóng đá; đều được tổ chức tại nước Anh",
+                "type": "text",
+                "url": "",
+                "value": "30",
+                "solution": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Bộ đề số 4",
+        "data": [
+            {
+                "id": 1,
+                "topic": "Địa",
+                "question": "Địa danh này có ý nghĩa là “thủ phủ” hoặc “lỵ sở” của tỉnh. Sau này, địa danh đã trở thành tên riêng của 11 huyện và 4 thị trấn khu vực miền Nam nước ta. Hãy cho biết, đó là địa danh nào?\n",
+                "ans": "Châu Thành",
+                "type": "text",
+                "url": "",
+                "value": "10",
+                "solution": ""
+            },
+            {
+                "id": 2,
+                "topic": "Hóa",
+                "question": "Kim loại nào đóng vai trò là chất xúc tác trong quá trình hidro hóa dầu thực vật?\n",
+                "ans": "Niken",
+                "type": "text",
+                "url": "",
+                "value": "10",
+                "solution": ""
+            },
+            {
+                "id": 3,
+                "topic": "Văn",
+                "question": "“Ngòi bút, nghĩa là tâm hồn trung nghĩa của Nguyễn Đình Chiểu đã diễn tả thật là sinh động và não nùng, cảm tình của dân tộc đối với người chiến sĩ, vốn là người nông dân, xưa kia chỉ quen cày cuốc, bỗng chốc trở thành người anh hùng cứu nước...”. Đây là lời nhận định của cố thủ tướng Phạm Văn Đồng về tác phẩm nào?\n",
+                "ans": "Văn tế nghĩa sĩ Cần Giuộc",
+                "type": "text",
+                "url": "",
+                "value": "10",
+                "solution": ""
+            },
+            {
+                "id": 4,
+                "topic": "Sử",
+                "question": "“Đấng chí tôn\" là mĩ hiệu mà nhân dân Ấn Độ dùng để gọi vị vua nào? \n",
+                "ans": " Akbar (A-cơ-ba)",
+                "type": "text",
+                "url": "",
+                "value": "20",
+                "solution": ""
+            },
+            {
+                "id": 5,
+                "topic": "Hóa",
+                "question": "Bạn hãy trả lời câu hỏi sau của BTC Cuộc chiến vương quyền",
+                "ans": "NH4Cl, xuất hiện gần tại B, do khí NH3 có phân tử khối nhẹ hơn HCl nên tốc độ khuếch tán cao hơn",
+                "type": "video",
+                "url": "MDTC_Vitri4_20d_Hoa.mp4",
+                "value": "20",
+                "solution": "",
+                "solutionURL": ""
+            },
+            {
+                "id": 6,
+                "topic": "Khác",
+                "question": "Kể từ năm 2021, Bộ Công an đã ban hành mẫu thẻ căn cước công dân (CCCD) gắn chip mới. Căn cứ theo Luật Căn cước công dân 2014, tương tự như mẫu thẻ cũ thì tại mặt trước của thẻ vẫn sẽ in trực tiếp thời hạn sử dụng theo nguyên tắc tại Điều 21 Luật Căn cước công dân 2014. Thẻ CCCD phải được đổi khi công dân đủ 3 mốc tuổi, đó là khi đủ 25 tuổi và hai mốc tuổi nào nữa?\n",
+                "ans": "40 và 60 tuổi (Thẻ CCCD phải được đổi khi công dân đủ 25 tuổi, đủ 40 tuổi và đủ 60 tuổi.)\n",
+                "type": "text",
+                "url": "",
+                "value": "20",
+                "solution": ""
+            },
+            {
+                "id": 7,
+                "topic": "Địa",
+                "question": "Bạn hãy trả lời câu hỏi sau của BTC Cuộc chiến vương quyền",
+                "ans": "Tà Năng – Phan Dũng (không chấp nhận đáp án “Tà Năng” hay “Phan Dũng” vì câu hỏi là hỏi “cung đường”)",
+                "type": "video",
+                "url": "MDTC_ViTri4_30d_Dia.mp4",
+                "value": "30",
+                "solution": ""
+            },
+            {
+                "id": 8,
+                "topic": "Sử",
+                "question": "Theo sách Kiến văn tiểu lục, lịch sử khoa cử của các triều đại phong kiến Việt Nam ghi nhận 124 khoa thi tiến sĩ. Theo lệ thường, cứ mỗi khoa thi diễn ra thành công, các tiến sĩ của khoa thi sẽ cùng được ghi danh lên một tấm bia tiến sĩ tại Văn Miếu – Quốc Tử Giám. Tuy nhiên, có một số khoa thi không được dựng bia. Ngoài ra, Đại Việt sử ký toàn thư chép lại rằng, có 9 khoa thi được triều đình dựng bia, nhưng hiện nay đã không còn nữa. Hãy cho biết, có bao nhiêu khoa thi không được triều đình dựng bia tiến sĩ?\n",
+                "ans": "33",
+                "type": "text",
+                "url": "",
+                "value": "30",
+                "solution": "Văn Miếu – Quốc Tử Giám hiện còn 82 bia, nghĩa là có 124-82=42 bia hoặc được dựng nhưng đã mất, hoặc là không được dựng. Vậy còn 42-9=33 bia không được dựng.\n"
+            },
+            {
+                "id": 9,
+                "topic": "Hiểu biết chung",
+                "question": "Có 2 quần thể di tích văn hoá ở nước ta mà lễ hội hàng năm đều diễn ra từ ngày 6 tháng giêng đến hết tháng 3 âm lịch, đó là gì?",
+                "ans": "Chùa Hương và chùa Bái Đính",
+                "type": "text",
+                "url": "",
+                "value": "30",
+                "solution": ""
+            }
+        ]
+    }
+]

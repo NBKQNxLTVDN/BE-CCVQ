@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "data": {
+      "topic": "Toán",
+      "question": "Mỗi cách sắp thứ tự của n phần tử đã cho, mà trong đó mỗi phần tử có mặt đúng một lần được gọi là gì?",
+      "ans": "Hoán vị",
+      "type": "text"
+    }
+  },
+  {
+    "id": 2,
+    "data": {
+      "topic": "Sử",
+      "question": "Vị tổng thống nào là Tổng thống đời thứ 35 của Hoa Kỳ, là tổng thống đầu tiên trong lịch sử nước này đoạt giải Pulitzer?",
+      "ans": "John F. Kennedy",
+      "type": "text"
+    }
+  },
+  {
+    "id": 3,
+    "data": {
+      "topic": "Hóa",
+      "question": "Chỉ số nào đặc trưng cho tính chống kích nổ của nhiên liệu động cơ, chỉ số này càng cao, khả năng chống nổ càng tốt ?",
+      "ans": "octane",
+      "type": "text"
+    }
+  }
+]
